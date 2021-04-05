@@ -4,7 +4,7 @@
 * Tableau Public 
 * Jupyter Notebook - Pandas Library
 * CitiBike Data: [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html)
-* Challenge Code: NYC_CityBike_Challenge.ipynb](NYC_CitiBike_Challenge.ipynb)
+* Challenge Code: [NYC_CityBike_Challenge.ipynb](NYC_CitiBike_Challenge.ipynb)
 * Tableau Dashboard: [Module_14_Challenge](https://public.tableau.com/views/Module_14_Challenge_NYC_CitiBike_Analysis/NYCCitibikeAnalysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 ## Overview of Analysis 
